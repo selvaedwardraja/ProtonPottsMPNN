@@ -1,5 +1,7 @@
 # pH-sensitive binder design with Proton-PottsMPNN
 
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/selvaedwardraja/ProtonPottsMPNN/blob/main/ProtonPottsMPNN_Colab.ipynb)
+
 A **PottsMPNN with an explicit protonation-state alphabet**, for designing **pH-switchable** binders.
 Histidine is `HIS-P` (charged, +1) vs `HIS-S` (neutral); acids are `ASP-P`/`GLU-P` (protonated, neutral
 COOH) vs `ASP-D`/`GLU-D` (deprotonated, −1). Because the learned Potts energy is protonation-aware, the
